@@ -15,6 +15,7 @@ I'm a passionate developer with a background in cybersecurity and currently work
 ### Certifications
 
 - CCENT: Cisco network Certification.
+- CCP: AWS Certified Cloud Practitioner  
 
 ### Contact Me
 
