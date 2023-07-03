@@ -4,9 +4,11 @@ I'm a passionate developer with a background in cybersecurity and currently work
 ### Skills
 
 - Programming Languages: Python, JavaScript, Bash, php , CSS, SQL.
-- Tools and Technologies: Docker, Kubernetes, Ansible, AWS, Terraform, Prometheus ,Git.
+- Tools and Technologies: Docker, Kubernetes, Ansible, AWS, Terraform, Prometheus ,Git and GCP.
 - Cybersecurity: cyber security practitioner , Vulnerability Assessment, Network Security.
 - OS - Linux and Windows, Networking, protocols and more.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriavsapir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
