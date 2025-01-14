@@ -20,6 +20,9 @@ I'm a passionate developer with a background in cybersecurity and currently work
 - GCP: Professional Cloud Network Engineer
 - GCP: Professional Cloud Developer
 - GCP: Professional Cloud Security Engineer
+- GCP: Professional Cloud DevOps
+
+- **GCP: Authorize Trainer**
   
 - CCENT: Cisco network Certification.
 - CCP: AWS Certified Cloud Practitioner
