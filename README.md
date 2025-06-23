@@ -25,9 +25,9 @@ I'm a passionate developer with a background in cybersecurity and currently work
 - **GCP: Authorize Trainer**
   
 - CCENT: Cisco network Certification.
-- CCP: AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner
 - The Linux Foundation: FinOps Certified Practitioner
-
+- HasiCorp: Terraform 003
 
 ### Contact Me
 
